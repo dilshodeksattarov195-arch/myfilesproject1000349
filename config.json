@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustereelete",
+        "uuid": 661006,
+        "checksum": "o9h5ht"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
